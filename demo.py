@@ -1,0 +1,3 @@
+ma = ("hiii")
+print(ma)
+
